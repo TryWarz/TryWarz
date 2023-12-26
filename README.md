@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 🎓 Studying at Epitech<br>- ⚡ Network Security Mitigation specialists I ...</p>
+<p align="left"><br><br>- 🔭 I’m working as ...<br>- 🎓 Studying at Epitech<br>- ⚡ Network Security Mitigation specialists</p>
 
 ###
 
