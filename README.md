@@ -7,8 +7,11 @@
 
 ###
 
-<p align="left"><br>- 🔭 I’m working as a software engineer<br>- 🎓 Studying at Epitech<br>- ⚡ Network Security Mitigation specialists</p>
-
+<p align="left">
+<br>- 🔭 I’m working as a software engineer
+<br>- 📚 Self-taught developer — learned to code during the Covid era
+<br>- ⚡ Network security & vulnerability mitigation specialist
+</p>
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
