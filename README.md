@@ -8,10 +8,13 @@
 ###
 
 <p align="left">
-<br>- 🔭 I’m working as a software engineer
-<br>- 📚 Self-taught developer — learned to code during the Covid era
-<br>- ⚡ Network security & vulnerability mitigation specialist
+<br>- 🔭 Software engineer — building secure and scalable applications
+<br>- 📚 Self-taught, learned to code during the Covid era
+<br>- ⚡ Specialized in network security and vulnerability mitigation
+<br>- 🛠️ Experienced in Python, JavaScript, and penetration testing
+<br>- 🚀 Constantly learning, always seeking improvement
 </p>
+
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
