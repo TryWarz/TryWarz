@@ -35,7 +35,7 @@
 ###
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats-zeta-virid.vercel.app/api?username=TryWarz&show_icons=true&theme=tokyonight"> <img height="160" src="https://github-readme-stats-zeta-virid.vercel.app/api/top-langs/?username=TryWarz&langs_count=5&layout=compact&theme=tokyonight">
+  <img height="160" src="https://github-readme-stats-zeta-virid.vercel.app/api?username=NycolazSec&show_icons=true&theme=tokyonight"> <img height="160" src="https://github-readme-stats-zeta-virid.vercel.app/api/top-langs/?username=NycolazSec&langs_count=5&layout=compact&theme=tokyonight">
 </div>
 
 ###
